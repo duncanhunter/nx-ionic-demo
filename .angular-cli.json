@@ -29,6 +29,12 @@
         "dev": "environments/environment.ts",
         "prod": "environments/environment.prod.ts"
       }
+    },
+    {
+      "name": "demo-core",
+      "root": "libs/demo-core/src",
+      "test": "../../../test.js",
+      "appRoot": ""
     }
   ],
   "e2e": {
