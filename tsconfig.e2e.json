@@ -19,6 +19,7 @@
   "exclude": [
     "**/*.spec.ts",
     "node_modules",
-    "tmp"
+    "tmp",
+    "mobile-apps"
   ]
 }
